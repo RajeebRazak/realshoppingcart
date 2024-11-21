@@ -1,0 +1,97 @@
+{
+
+ "products" :  [
+  {
+    "id": 1,
+    "image": "https://m.media-amazon.com/images/I/71657TiFeHL._SX679_.jpg",
+    "headName": "iPhone 15",
+    "originalPrice": 899,
+    "discountedPrice": 799,
+    "quantity":1
+  },
+  {
+    "id": 2,
+    "image": "https://m.media-amazon.com/images/I/71gktkb97iL._SY695_.jpg",
+    "headName": "Apple Watch Series 7",
+    "imgName": "sale",
+    "popularity": 5,
+    "originalPrice": 299,
+    "discountedPrice": 199,
+    "quantity":1
+  },
+  {
+    "id": 3,
+    "image": "https://m.media-amazon.com/images/I/2110TEYPKnL._SX300_SY300_QL70_FMwebp_.jpg",
+    "imgName": "sale",
+    "headName": "AirPods Max",
+    "originalPrice": 150,
+    "discountedPrice": 129,
+    "quantity":1
+  },
+  {
+    "id": 4,
+    "image": "https://m.media-amazon.com/images/I/61Tedl8bksL._SX679_.jpg",
+    "headName": "iMac",
+    "popularity": 5,
+    "originalPrice": 1799,
+    "discountedPrice": 1699,
+    "quantity":1
+  },
+  {
+    "id": 5,
+    "image": "https://m.media-amazon.com/images/I/816DD5Kg7mL._SX679_.jpg",
+    "imgName": "sale",
+    "headName": "Apple Pro Display XDR",
+    "originalPrice": 599,
+    "discountedPrice": 499,
+    "quantity":1
+  },
+  {
+    "id": 6,
+    "image": "https://m.media-amazon.com/images/I/61YCWzjldDL._SX679_.jpg",
+    "headName": "MacBook Pro",
+    "originalPrice": 1699,
+    "discountedPrice": 1599,
+    "quantity":1
+  },
+  {
+    "id": 7,
+    "image": "https://m.media-amazon.com/images/I/8124D1qS2UL._SX679_.jpg",
+    "imgName": "sale",
+    "headName": "iPad Pro",
+    "popularity": 5,
+    "originalPrice": 78,
+    "discountedPrice": 68,
+    "quantity":1
+  },
+  {
+    "id": 8,
+    "image": "https://m.media-amazon.com/images/I/31+G-o8iK-L._SX342_SY445_.jpg",
+    "headName": "MacBook Air (M1)",
+    "popularity": 5,
+    "originalPrice": 1199,
+    "discountedPrice": 1099,
+    "quantity":1
+  },
+  {
+    "id": 9,
+    "image": "https://t1.gstatic.com/images?q=tbn:ANd9GcSczYolHV2F_JJ_ImmsjhpC6WOhK-eDoxBbRldSj2ePF_JGUYyf",
+    "headName": "4k Apple Tv",
+    "popularity": 5,
+    "originalPrice": 2399,
+    "discountedPrice": 2099,
+    "quantity":1
+  },
+  {
+    "id": 10,
+    "image": "https://help.apple.com/assets/65F485A2DF0F527CC30CAA0F/65F485A7DF0F527CC30CAA1C/en_US/2903643fe8fb27b835653ec0618a8141.png",
+    "headName": "Vision Pro",
+    "popularity": 5,
+    "originalPrice": 4099,
+    "discountedPrice": 3999,
+    "quantity":1
+  }
+]
+
+}
+
